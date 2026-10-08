@@ -1,0 +1,66 @@
+List out the 57 keywords in java and their uses . And list out all the key words no longer in use and then put into your chapter one folder and then push to your GitHub
+
+Java Keywords and Their Uses
+No.	Keyword	Simple use
+1	abstract	Creates an incomplete class or method.
+2	assert	Checks if something is true.
+3	boolean	Stores true or false.
+4	break	Stops a loop or switch.
+5	byte	Stores a small whole number.
+6	case	Gives an option in switch.
+7	catch	Handles an error.
+8	char	Stores one character.
+9	class	Creates a class.
+10	const	Reserved word; not used.
+11	continue	Skips to the next loop.
+12	default	Gives the default choice in switch.
+13	do	Starts a do-while loop.
+14	double	Stores decimal numbers.
+15	else	Gives another choice after if.
+16	enum	Creates a group of named values.
+17	extends	Shows inheritance from another class.
+18	final	Prevents a value or class from being changed.
+19	finally	Runs code after try/catch.
+20	float	Stores decimal numbers.
+21	for	Creates a loop.
+22	goto	Reserved word; not used.
+23	if	Checks a condition.
+24	implements	Connects a class to an interface.
+25	import	Brings another class or package into a program.
+26	instanceof	Checks the type of an object.
+27	int	Stores whole numbers.
+28	interface	Creates an interface.
+29	long	Stores large whole numbers.
+30	native	Used for methods written outside Java.
+31	new	Creates an object.
+32	package	Groups related classes.
+33	private	Allows access only inside the class.
+34	protected	Allows access within a package and subclasses.
+35	public	Allows access from other classes.
+36	return	Sends a value back from a method.
+37	short	Stores small whole numbers.
+38	static	Makes something belong to the class.
+39	strictfp	Controls decimal calculations.
+40	super	Refers to the parent class.
+41	switch	Selects between different choices.
+42	synchronized	Controls access when multiple threads are running.
+43	this	Refers to the current object.
+44	throw	Creates an exception.
+45	throws	Shows that a method can cause an exception.
+46	transient	Prevents data from being saved during serialization.
+47	try	Starts code that may cause an error.
+48	void	Means a method returns nothing.
+49	volatile	Tells Java that a value can change between threads.
+50	while	Creates a loop while a condition is true.
+51	true	Represents true.
+52	false	Represents false.
+53	null	Means there is no object value.
+54	record	Creates a simple data-holding class.
+55	sealed	Controls which classes can inherit from a class.
+56	permits	Lists classes allowed to inherit from a sealed class.
+57	non-sealed	Allows a sealed class to be freely inherited.
+Keywords No Longer Used
+•	const — reserved but not used in Java.
+•	goto — reserved but not used in Java.
+Note: true, false, and null are actually called literals, but they are often included in beginner lists of Java keywords.
+
